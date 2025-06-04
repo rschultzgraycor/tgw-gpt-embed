@@ -1,0 +1,6 @@
+node_modules
+.vscode
+ai-plugin.json
+example.html
+package-lock.json
+.env
